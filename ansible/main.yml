@@ -1,0 +1,3 @@
+---
+- name: Common role import
+  import_playbook: playbooks/common.yml
